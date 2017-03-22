@@ -1,0 +1,4 @@
+TODO:
+
+-Remove periods from words
+-Print the data w/ spacing
